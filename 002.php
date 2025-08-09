@@ -115,6 +115,7 @@ echo $y; echo "\n";
 echo $x; echo "\n";
 */
 // ***  Decrement --
+/*
 $a=5;
 $b=$a--; // Post Decrement - আগে ভ্যালু এসাইন হবে পরে ডিক্রিমেন্ট হবে
 echo $b; echo "\n"; 
@@ -123,4 +124,5 @@ $x=10; echo "\n";
 $y=--$x; // Pre Increment - আগে ডিক্রিমেন্ট হবে পরে ভ্যালু এসাইন হবে  
 echo $y; echo "\n";
 echo $x; echo "\n";
+*/
 ?>
